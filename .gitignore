@@ -1,0 +1,19 @@
+# Sphinx-Build-Output
+_build/
+
+# Temporäre Dateien
+*.tmp
+*.swp
+*~
+*.bak
+*.bak-*
+.DS_Store
+Thumbs.db
+
+# Python-Helfer / virtuelles Env
+__pycache__/
+*.pyc
+.venv/
+
+# Editor- / Tool-State (lokal, nicht teilen)
+.vscode/
