@@ -1,0 +1,9 @@
+/* BEG-Branding-Overrides fuer furo */
+:root {
+    --color-brand-primary: #1b6b34;
+    --color-brand-content: #1b6b34;
+}
+
+article h1, article h2 {
+    color: var(--color-brand-primary);
+}
