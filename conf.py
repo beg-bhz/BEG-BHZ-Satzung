@@ -6,13 +6,12 @@ from datetime import datetime
 # -- Project information -----------------------------------------------------
 
 project = "BEG-BHZ-Satzung"
-# Anzeigename — wandert in den LaTeX-Header, ins Titelblatt und in den HTML-Titel.
-# Bis zur v1.0-Anpassung steht hier die Quelle (BWGV-Mustersatzung).
-# Bei v1.0 auf "Bürgerenergie Bösingen-Herrenzimmern eG — Satzung" umstellen.
-projectname = "BWGV-Mustersatzung Energiegenossenschaften (Arbeitsversion 2025)"
-author = "Baden-Württembergischer Genossenschaftsverband (Vorlage); BEG-BHZ (Anpassungen)"
-copyright = f"{datetime.now().year}, BWGV-Vorlage / Anpassungen Bürgerenergie Bösingen-Herrenzimmern eG"
-release = os.getenv("DOC_RELEASE", "v0.1 Mustersatzung-Import")
+projectname = "Bürgerenergie Bösingen-Herrenzimmern eG — Satzung"
+author = "Bürgerenergie Bösingen-Herrenzimmern eG"
+copyright = f"{datetime.now().year}, Bürgerenergie Bösingen-Herrenzimmern eG (CC0 1.0 Universal)"
+release = os.getenv("DOC_RELEASE", "v1.0")
+gv_stand = "19.\\,Mai 2026"  # für Footer; \\, ist ein schmaler LaTeX-Spacing-Zwischenraum
+lizenz_kurz = "CC0 1.0"      # Kurzbezeichnung für Footer
 
 # -- General configuration ---------------------------------------------------
 
@@ -72,7 +71,10 @@ latex_elements = {
         \setsansfont{DejaVu Sans}[Scale=0.95]
         \setmonofont{DejaVu Sans Mono}[Scale=0.90]
     """,
-    "preamble": r"""
+    "preamble": (r"""
+        \newcommand{\satzungrelease}{""" + release + r"""}
+        \newcommand{\satzungstand}{""" + gv_stand + r"""}
+        \newcommand{\satzunglizenz}{""" + lizenz_kurz + r"""}
         \usepackage{polyglossia}
         \setmainlanguage[spelling=new]{german}
         \usepackage{microtype}
@@ -115,25 +117,33 @@ latex_elements = {
         \usepackage{enumitem}
         \setlist{nosep,topsep=4pt,parsep=2pt,partopsep=0pt}
 
-        % Seitennummern unten rechts, kein Header
+        % Header und Footer (Stil "Klassisch A")
+        % Header: Name links, Version rechts, dünne Trennlinie unten
+        % Footer: Stand/Lizenz links, "Seite X von Y" rechts, Trennlinie oben
         \usepackage{fancyhdr}
+        \usepackage{lastpage}
         \fancypagestyle{normal}{%
           \fancyhf{}%
-          \fancyfoot[R]{\thepage}%
-          \renewcommand{\headrulewidth}{0pt}%
-          \renewcommand{\footrulewidth}{0pt}%
+          \fancyhead[L]{\small Bürgerenergie Bösingen-Herrenzimmern eG \,·\, Satzung}%
+          \fancyhead[R]{\small \satzungrelease}%
+          \fancyfoot[L]{\small Stand \satzungstand \,·\, \satzunglizenz}%
+          \fancyfoot[R]{\small Seite \thepage{} von \pageref{LastPage}}%
+          \renewcommand{\headrulewidth}{0.4pt}%
+          \renewcommand{\footrulewidth}{0.4pt}%
         }
+        % Kapitelanfang / TOC-Seite: kein Header, nur Footer
         \fancypagestyle{plain}{%
           \fancyhf{}%
-          \fancyfoot[R]{\thepage}%
+          \fancyfoot[L]{\small Stand \satzungstand \,·\, \satzunglizenz}%
+          \fancyfoot[R]{\small Seite \thepage{} von \pageref{LastPage}}%
           \renewcommand{\headrulewidth}{0pt}%
-          \renewcommand{\footrulewidth}{0pt}%
+          \renewcommand{\footrulewidth}{0.4pt}%
         }
 
         % TOC-Heading auf "Inhaltsverzeichnis" (Sphinx übernimmt sonst den ersten
         % toctree-Caption als \contentsname)
         \addto\captionsgerman{\renewcommand{\contentsname}{Inhaltsverzeichnis}}
-    """,
+    """),
     "sphinxsetup": (
         "hmargin={1in,1in}, vmargin={1in,1in}, "
         "verbatimwithframe=true, "
@@ -144,18 +154,20 @@ latex_elements = {
     "maketitle": r"""
         \begin{titlepage}
         \centering
-        \vspace*{6cm}
-        {\Large\bfseries BWGV-MUSTERSATZUNG\par}
+        \vspace*{5cm}
+        {\Large\bfseries SATZUNG\par}
         \vspace{1cm}
-        {\large für\par}
+        {\large der\par}
         \vspace{0.5cm}
-        {\Large\bfseries Energiegenossenschaften\par}
+        {\Large\bfseries Bürgerenergie\\Bösingen-Herrenzimmern eG\par}
         \vspace{2cm}
-        {\large Arbeitsversion\par}
+        {\large beschlossen von der Gründungsversammlung\par}
+        \vspace{0.3cm}
+        {\large am 19.\,Mai 2026\par}
+        \vspace{2cm}
+        {\small Stand: \today \par}
         \vspace{0.5cm}
-        {\normalsize (Stand: 2025)\par}
-        \vspace{2cm}
-        {\small Import-Stand für das BEG-BHZ-Satzungs-Repo: \today \par}
+        {\footnotesize Lizenz: CC0 1.0 Universal (Public Domain)\par}
         \end{titlepage}
     """,
 }

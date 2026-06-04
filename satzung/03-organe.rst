@@ -76,9 +76,7 @@ e) einen Bericht über besondere Vorkommnisse; hierüber ist vorab erforderliche
 
 (3) Der Vorstand wird vom Aufsichtsrat bestellt und abberufen. Der Aufsichtsrat ist für den Abschluss, die Änderung sowie die Beendigung von Dienstverträgen mit Vorstandsmitgliedern zuständig. Die Erklärungen des Aufsichtsrats werden durch den Vorsitzenden des Aufsichtsrats abgegeben, im Falle seiner Verhinderung durch seinen Stellvertreter. Die Beendigung des Dienstverhältnisses hat die Aufhebung der Organstellung zum Zeitpunkt des Ausscheidens zur Folge.
 
-(4) Mitglieder des Vorstands scheiden mit Ende des Kalenderjahres aus dem Vorstand aus, in dem sie das 67. Lebensjahr vollendet haben.
-
-(5) Die Bestellung nichthauptamtlicher Vorstandsmitglieder ist auf drei Jahre befristet. Wiederbestellung ist zulässig.
+(4) Die Bestellung nichthauptamtlicher Vorstandsmitglieder ist auf drei Jahre befristet. Wiederbestellung ist zulässig.
 
 § 19 Willensbildung
 ^^^^^^^^^^^^^^^^^^^
@@ -109,7 +107,7 @@ B. Der Aufsichtsrat
 § 22 Aufgaben und Pflichten des Aufsichtsrats
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-(1) Der Aufsichtsrat hat die Geschäftsführung des Vorstands zu überwachen und sich zu diesem Zweck über die Angelegenheiten der Genossenschaft zu unterrichten. Er kann jederzeit hierüber Berichterstattung vom Vorstand verlangen und selbst oder durch einzelne von ihm zu bestimmende Mitglieder die Bücher und Schriften der Genossenschaft sowie den Kassen-bestand und die Bestände an Wertpapieren und Waren einsehen und prüfen. Auch ein einzelnes Mitglied des Aufsichtsrats kann Auskünfte, jedoch nur an den Aufsichtsrat, verlangen.
+(1) Der Aufsichtsrat hat die Geschäftsführung des Vorstands zu überwachen und sich zu diesem Zweck über die Angelegenheiten der Genossenschaft zu unterrichten. Er kann jederzeit hierüber Berichterstattung vom Vorstand verlangen und selbst oder durch einzelne von ihm zu bestimmende Mitglieder die Bücher und Schriften der Genossenschaft sowie den Kassenbestand und die Bestände an Wertpapieren und Waren einsehen und prüfen. Auch ein einzelnes Mitglied des Aufsichtsrats kann Auskünfte, jedoch nur an den Aufsichtsrat, verlangen.
 
 (2) Der Aufsichtsrat hat den Jahresabschluss, den Lagebericht, soweit dieser gesetzlich erforderlich ist, und den Vorschlag des Vorstands für die Verwendung eines Jahresüberschusses oder für die Deckung eines Jahresfehlbetrags zu prüfen. Er hat sich darüber zu äußern und der Generalversammlung vor Feststellung des Jahresabschlusses Bericht zu erstatten. Jedes Mitglied des Aufsichtsrats hat den Inhalt des Prüfungsberichts zur Kenntnis zu nehmen.
 
@@ -117,7 +115,7 @@ B. Der Aufsichtsrat
 
 (4) Der Aufsichtsrat kann zur Erfüllung seiner gesetzlichen und satzungsmäßigen Pflichten aus seiner Mitte Ausschüsse bilden und sich der Hilfe von Sachverständigen auf Kosten der Genossenschaft bedienen. Soweit der Aufsichtsrat Ausschüsse bildet, bestimmt er, ob diese beratende oder entscheidende Befugnis haben; außerdem bestimmt er die Zahl der Ausschussmitglieder. Ein Ausschuss muss mindestens aus drei Personen bestehen. Ein Ausschuss ist beschlussfähig, wenn mehr als die Hälfte seiner Mitglieder anwesend ist. Für die Beschlussfassung gilt ergänzend § 25.
 
-(5) Einzelheiten über die Erfüllung der dem Aufsichtsrat obliegenden Pflichten regelt die vom Aufsichtsrat aufzustellende Geschäftsordnung. Ein Exemplar der Geschäftsordnung ist jedem Mitglied des Aufsichtsrats gegen Empfangsbescheinigung auszuhändigen
+(5) Einzelheiten über die Erfüllung der dem Aufsichtsrat obliegenden Pflichten regelt die vom Aufsichtsrat aufzustellende Geschäftsordnung. Ein Exemplar der Geschäftsordnung ist jedem Mitglied des Aufsichtsrats gegen Empfangsbescheinigung auszuhändigen.
 
 (6) Die Aufsichtsratsmitglieder haben bei ihrer Tätigkeit die Sorgfalt eines ordentlichen und gewissenhaften Aufsichtsratsmitgliedes einer Genossenschaft anzuwenden. Sie haben über alle vertraulichen Angaben und Geheimnisse der Genossenschaft sowie der Mitglieder und Kunden, die ihnen durch die Tätigkeit im Aufsichtsrat bekannt geworden sind, Stillschweigen zu bewahren.
 
@@ -125,12 +123,10 @@ B. Der Aufsichtsrat
 
 (8) Die Beschlüsse des Aufsichtsrates vollzieht der Aufsichtsratsvorsitzende, bei dessen Verhinderung sein Stellvertreter.
 
-§ 23 Gemeinsame Sitzungen von Vorstand und Aufsichtsrat
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+§ 23 Gemeinsame Sitzungen von Vorstand und Aufsichtsrat — zustimmungsbedürftige Angelegenheiten
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**zustimmungsbedürftige Angelegenheiten**
-
-(1) Über die Grundsätze der Geschäftspolitik beschließen Vorstand und Aufsichtsrat nach gemeinsamer Beratung und durch getrennte Abstimmung.
+(1) Über die Grundsätze der Geschäftspolitik beschließen Vorstand und Aufsichtsrat nach gemeinsamer Beratung und durch getrennte Abstimmung. Gleiches gilt für die Festlegung der höchstmöglichen Anzahl an Geschäftsanteilen, mit denen sich ein Mitglied beteiligen kann (§ 37 Abs. 3).
 
 (2) Folgende Angelegenheiten bedürfen der Zustimmung des Aufsichtsrats
 
@@ -165,7 +161,7 @@ i) die Hereinnahme von Genussrechtskapital, die Begründung nachrangiger Verbind
 § 24 Zusammensetzung und Wahl
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-(1) Der Aufsichtsrat besteht aus mindestens drei, höchstens \____\_ Mitgliedern, die von der Generalversammlung gewählt werden; in diesem Rahmen bestimmt sie auch die konkrete Zahl der Aufsichtsratsmitglieder. Die Mitglieder des Aufsichtsrats dürfen nicht zugleich Vorstandsmitglieder, dauernde Stellvertreter der Vorstandsmitglieder, Prokuristen oder zum Betrieb des gesamten Geschäfts ermächtigte Handlungsbevollmächtigte der Genossenschaft sein.
+(1) Der Aufsichtsrat besteht aus mindestens drei, höchstens 7 Mitgliedern, die von der Generalversammlung gewählt werden; in diesem Rahmen bestimmt sie auch die konkrete Zahl der Aufsichtsratsmitglieder. Die Mitglieder des Aufsichtsrats dürfen nicht zugleich Vorstandsmitglieder, dauernde Stellvertreter der Vorstandsmitglieder, Prokuristen oder zum Betrieb des gesamten Geschäfts ermächtigte Handlungsbevollmächtigte der Genossenschaft sein.
 
 (2) Für die Wahl der Aufsichtsratsmitglieder gilt § 33.
 
@@ -173,9 +169,9 @@ i) die Hereinnahme von Genussrechtskapital, die Begründung nachrangiger Verbind
 
 Das Amt endet sofort, wenn es darauf beruht, dass das Aufsichtsratsmitglied Mitglied einer eingetragenen Genossenschaft ist und diese Mitgliedschaft beendet ist. Entsprechendes gilt für zur Vertretung anderer juristischer Personen oder Personengesellschaften befugte Personen, wenn deren Vertretungsbefugnis endet. Besteht Streit über die Wirksamkeit der Beendigung der Mitgliedschaft in der anderen Genossenschaft oder der Vertretungsbefugnis, entscheidet die schriftliche Erklärung der anderen Genossenschaft oder der anderen juristischen Person oder Personengesellschaft, dass die Mitgliedschaft oder Vertretungsbefugnis beendet ist.
 
-(4) Scheiden Mitglieder im Laufe ihrer Amtszeit aus, so besteht der Aufsichtsrat bis zur nächsten ordentlichen Generalversammlung, in der die Ersatzwahlen vorgenommen werden, nur aus den verbliebenen Mitgliedern. Eine frühere Ersatzwahl durch eine außerordentliche Generalversammlung ist nur dann erforderlich, wenn die Zahl der Aufsichtsratsmitglieder unter die gesetzliche Mindestzahl von drei herabsinkt. Ersatzwahlen erfolgen für den Rest der Amtsdauer des ausgeschiedenen Mitglieds.
+(4) Jährlich scheidet ein Drittel der Aufsichtsratsmitglieder aus, bei einer nicht durch drei teilbaren Zahl zuerst der geringere Teil. In den beiden ersten ordentlichen Wahlen entscheidet das Los, später die Amtsdauer. Bei Erweiterung des Aufsichtsrats scheidet von den bisherigen Aufsichtsratsmitgliedern jeweils das dienstälteste Drittel aus; von den neuen Mitgliedern scheidet durch Los ebenfalls ein Drittel aus, bis sich ein Turnus ergibt; sodann entscheidet auch bei diesen Mitgliedern die Amtsdauer. Wiederwahl ist zulässig.
 
-(5) Mitglieder des Aufsichtsrats scheiden aus dem Aufsichtsrat aus, wenn sie das 67. Lebensjahr vollendet haben. Als Zeitpunkt des Ausscheidens gilt das Ende der nächstfolgenden ordentlichen Generalversammlung.
+(5) Scheiden Mitglieder im Laufe ihrer Amtszeit aus, so besteht der Aufsichtsrat bis zur nächsten ordentlichen Generalversammlung, in der die Ersatzwahlen vorgenommen werden, nur aus den verbliebenen Mitgliedern. Eine frühere Ersatzwahl durch eine außerordentliche Generalversammlung ist nur dann erforderlich, wenn die Zahl der Aufsichtsratsmitglieder unter die gesetzliche Mindestzahl von drei herabsinkt. Ersatzwahlen erfolgen für den Rest der Amtsdauer des ausgeschiedenen Mitglieds.
 
 (6) Aus dem Vorstand ausgeschiedene Mitglieder können erst in den Aufsichtsrat gewählt werden, wenn sie für ihre gesamte Vorstandstätigkeit entlastet worden sind.
 
@@ -230,7 +226,7 @@ C. Die Generalversammlung
 
 (2) Eine außerordentliche Generalversammlung ist einzuberufen, wenn mindestens der zehnte Teil der Mitglieder dies in einem Antrag in Textform unter Angabe des Zwecks und der Gründe verlangt.
 
-(3) Die Generalversammlung wird durch unmittelbare Benachrichtigung sämtlicher Mitglieder in Textform oder durch Bekanntmachung in der papierhaften Ausgabe der/des \______________________________einberufen unter Einhaltung einer Frist von mindestens zwei Wochen, die zwischen dem Tage des Zugangs (Abs. 7) bzw. der Veröffentlichung der Einberufung und dem Tage der Generalversammlung liegen muss. Bei der Einberufung ist die Tagesordnung bekanntzumachen. Die §§ 36a bis 36c bleiben unberührt.
+(3) Die Generalversammlung wird durch unmittelbare Benachrichtigung sämtlicher Mitglieder in Textform (§ 126b BGB) einberufen unter Einhaltung einer Frist von mindestens zwei Wochen, die zwischen dem Tage des Zugangs (Abs. 7) bzw. der Veröffentlichung der Einberufung und dem Tage der Generalversammlung liegen muss. Bei der Einberufung ist die Tagesordnung bekanntzumachen. Die §§ 36a bis 36c bleiben unberührt.
 
 (4) Die Tagesordnung wird von dem Organ festgesetzt, das die Generalversammlung einberuft. Gegenstände sind zur Beschlussfassung anzukündigen, wenn mindestens der zehnte Teil der Mitglieder dies in einem Antrag in Textform unter Angabe des Zwecks und der Gründe verlangt.
 
@@ -343,22 +339,22 @@ Vertreter des Prüfungsverbandes und der genossenschaftlichen Spitzenverbände s
 § 36a Schriftliche oder elektronische Durchführung der Generalversammlung (virtuelle Generalversammlung), elektronische Teilnahme an einer Präsenzversammlung
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-(1) Die Generalversammlung kann auch ohne physische Präsenz der Mitglieder abgehalten werden (virtuelle Generalversammlung). In diesem Fall sind den Mitgliedern zusammen mit der Einberufung sämtliche Informationen mitzuteilen, die zur uneingeschränkten Teilnahme an der Generalversammlung benötigt werden. Dazu gehören insbesondere Informationen über evtl. Zugangsdaten sowie darüber hinaus, auf welche Weise das Rede-, Antrags-, Auskunfts- und Stimmrecht ausgeübt werden kann und wie und bis wann die schriftliche oder elektronische Stimmabgabe zu erfolgen hat. 
+(1) Die Generalversammlung kann auch ohne physische Präsenz der Mitglieder abgehalten werden (virtuelle Generalversammlung). In diesem Fall sind den Mitgliedern zusammen mit der Einberufung sämtliche Informationen mitzuteilen, die zur uneingeschränkten Teilnahme an der Generalversammlung benötigt werden. Dazu gehören insbesondere Informationen über evtl. Zugangsdaten sowie darüber hinaus, auf welche Weise das Rede-, Antrags-, Auskunfts- und Stimmrecht ausgeübt werden kann und wie und bis wann die schriftliche oder elektronische Stimmabgabe zu erfolgen hat.
 
 (2) Die Teilnahme an der virtuellen Generalversammlung kann dergestalt erfolgen, dass die technische Ausgestaltung eine Zwei-Wege-Kommunikation der Mitglieder mit den Organen und untereinander in der Generalversammlung ermöglicht.
 
-(3) Die Teilnahme an der virtuellen Generalversammlung kann auch dergestalt erfolgen, dass die Zwei-Wege-Kommunikation der Mitglieder mit den Organen und untereinander in einer dem Abstimmungsvorgang vorgelagerten Diskussionsphase ermöglicht wird. Der Zeitraum zwischen dem Beginn der Diskussionsphase und dem Abschluss der Abstimmungsphase stellt in diesem Fall die Generalversammlung dar. Ist eine Frist zu berechnen, ist in diesem Fall hinsichtlich des Tags der Generalversammlung auf den Beginn der Diskussionsphase und hinsichtlich des Schlusses der Generalversammlung auf das Ende der Abstimmungsphase abzustellen. 
+(3) Die Teilnahme an der virtuellen Generalversammlung kann auch dergestalt erfolgen, dass die Zwei-Wege-Kommunikation der Mitglieder mit den Organen und untereinander in einer dem Abstimmungsvorgang vorgelagerten Diskussionsphase ermöglicht wird. Der Zeitraum zwischen dem Beginn der Diskussionsphase und dem Abschluss der Abstimmungsphase stellt in diesem Fall die Generalversammlung dar. Ist eine Frist zu berechnen, ist in diesem Fall hinsichtlich des Tags der Generalversammlung auf den Beginn der Diskussionsphase und hinsichtlich des Schlusses der Generalversammlung auf das Ende der Abstimmungsphase abzustellen.
 
-(4) Die Ausübung von Stimmvollmachten (§ 26 Abs. 4) in einer virtuellen Generalversammlung ist zulässig, wenn die Vollmacht dem Vorstand mindestens eine Woche vor dem Tag der Generalversammlung in schriftlicher Form nachgewiesen wird. 
+(4) Die Ausübung von Stimmvollmachten (§ 26 Abs. 4) in einer virtuellen Generalversammlung ist zulässig, wenn die Vollmacht dem Vorstand mindestens eine Woche vor dem Tag der Generalversammlung in Textform (§ 126b BGB) nachgewiesen wird.
 
 (5) Die Mitglieder können an der Generalversammlung auch ohne Anwesenheit in einer Präsenzversammlung teilnehmen und ihre Rechte im Wege elektronischer Kommunikation ausüben (elektronische Teilnahme an einer Präsenzversammlung), wenn der Vorstand dies mit Zustimmung des Aufsichtsrats festlegt. Im Übrigen gelten die vorstehenden Absätze.
 
 § 36b Schriftliche oder elektronische Mitwirkung an der Beschlussfassung einer nur als Präsenzversammlung durchgeführten Generalversammlung
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-(1) Ist gestattet worden, an der Beschlussfassung einer nur als Präsenzversammlung durchgeführten Generalversammlung schriftlich oder im Wege elektronischer Kommunikation mitzuwirken, ist zusammen mit der Einberufung mitzuteilen, wie und bis wann die schriftliche oder elektronische Stimmabgabe zu erfolgen hat. 
+(1) Ist gestattet worden, an der Beschlussfassung einer nur als Präsenzversammlung durchgeführten Generalversammlung schriftlich oder im Wege elektronischer Kommunikation mitzuwirken, ist zusammen mit der Einberufung mitzuteilen, wie und bis wann die schriftliche oder elektronische Stimmabgabe zu erfolgen hat.
 
-(2) § 36a Abs. 4 gilt entsprechend. 
+(2) § 36a Abs. 4 gilt entsprechend.
 
 § 36c Übertragung der Generalversammlung in Bild und Ton
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

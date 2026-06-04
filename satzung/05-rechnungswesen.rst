@@ -13,7 +13,7 @@ V. Rechnungswesen
 
 (1) Der Vorstand hat innerhalb von 5 Monaten nach Ende des Geschäftsjahres den Jahresabschluss und den Lagebericht, soweit dieser gesetzlich erforderlich ist, für das vergangene Geschäftsjahr aufzustellen.
 
-(2) Der Vorstand hat gemäß § 16 Abs. 2 Buchstabe g) den Jahresabschluss und den Lagebericht, soweit dieser gesetzlich erforderlich ist, dem Aufsichtsrat unverzüglich und sodann mit dessen Bemerkungen der Generalversammlung zur Feststellung des Jahresabschlusses vorzulegen.
+(2) Der Vorstand hat gemäß § 16 Abs. 2 Buchstabe f) den Jahresabschluss und den Lagebericht, soweit dieser gesetzlich erforderlich ist, dem Aufsichtsrat unverzüglich und sodann mit dessen Bemerkungen der Generalversammlung zur Feststellung des Jahresabschlusses vorzulegen.
 
 (3) Jahresabschluss, Lagebericht, soweit dieser gesetzlich erforderlich ist, und Bericht des Aufsichtsrates sollen mindestens eine Woche vor der Generalversammlung in den Geschäftsräumen der Genossenschaft oder an einer anderen bekannt zu machenden Stelle zur Einsicht der Mitglieder ausgelegt oder ihnen sonst zur Kenntnis gebracht werden.
 

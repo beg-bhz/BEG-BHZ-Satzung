@@ -1,10 +1,10 @@
 # BEG-BHZ-Satzung
 
-Satzung und Geschäftsordnungen der **Bürgerenergie Bösingen-Herrenzimmern eG** als Sphinx-Projekt — Quelle in **reStructuredText**, gebaut zu HTML (GitHub Pages) und PDF (Release-Asset).
+Satzung der **Bürgerenergie Bösingen-Herrenzimmern eG** als Sphinx-Projekt — Quelle in **reStructuredText**, gebaut zu HTML (GitHub Pages) und PDF (Release-Asset).
 
-**Aufbau:** Die Satzung liegt als RST-Files pro Abschnitt in `satzung/01-…rst` bis `satzung/08-…rst`, plus `satzung/99-unterschriften.rst`. Das LaTeX-PDF-Layout orientiert sich an der BWGV-Mustersatzung-PDF (DIN A4, sans-serif, einfache §-Gliederung, Seitennummern unten rechts).
+**Aufbau:** Die Satzung liegt als RST-Files pro Abschnitt in `satzung/01-firma-zweck.rst` bis `satzung/08-gerichtsstand.rst`. Das LaTeX-PDF-Layout: DIN A4, sans-serif (DejaVu Sans), einfache §-Gliederung, Seitennummern unten rechts.
 
-**Stand:** v0 (Mustersatzung-Import 2026-06-04, unverändert aus `BWGV-Mustersatzung für Energiegenossenschaften, Arbeitsversion 2025`). v1.0 = beschlossene Fassung der Gründungsversammlung wird in Folgecommits eingearbeitet.
+**Stand:** v1.0 (beschlossen von der Gründungsversammlung 19.05.2026; aktuell zur Prüfung beim BWGV).
 
 ## Lokal bauen
 

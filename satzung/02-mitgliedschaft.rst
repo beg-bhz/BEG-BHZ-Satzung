@@ -10,34 +10,32 @@ a) natürliche Personen,
 
 b) Personengesellschaften,
 
-c) juristische Personen des privaten oder öffentlichen Rechts,
-
-die ihren Wohnsitz oder Sitz im *(Ort / Kreis/ in der Region* \_____________________________\_ haben.
+c) juristische Personen des privaten oder öffentlichen Rechts.
 
 (2) Aufnahmefähig ist nur, wer die Voraussetzungen für die Inanspruchnahme der Einrichtungen der Genossenschaft erfüllt oder dessen Mitgliedschaft im Interesse der Genossenschaft liegt.
 
 (3) Die Mitgliedschaft wird erworben durch
 
- a) eine von dem Beitretenden zu unterzeichnende unbedingte Erklärung des Beitritts und
+a) eine von dem Beitretenden in Textform (§ 126b BGB) abzugebende unbedingte Erklärung des Beitritts und die darin enthaltene ausdrückliche Verpflichtung, die nach Gesetz und Satzung geschuldeten Einzahlungen auf den Geschäftsanteil zu leisten (§ 15a GenG), und
 
- b) Zulassung durch den Vorstand.
+b) Zulassung durch den Vorstand.
 
-(4) Das Mitglied ist unverzüglich in die Mitgliederliste (§ 16 Abs. 2 Buchstabe h) einzutragen und hiervon unverzüglich zu benachrichtigen.
+(4) Das Mitglied ist unverzüglich in die Mitgliederliste (§ 16 Abs. 2 Buchstabe g) einzutragen und hiervon unverzüglich zu benachrichtigen.
 
 § 4 Beendigung der Mitgliedschaft
 ---------------------------------
 
 Die Mitgliedschaft endet durch
 
-- Kündigung (§ 5)
+-  Kündigung (§ 5)
 
-- Übertragung des Geschäftsguthabens (§ 6)
+-  Übertragung des Geschäftsguthabens (§ 6)
 
-- Tod (§ 7)
+-  Tod (§ 7)
 
-- Auflösung einer juristischen Person oder Personengesellschaft (§ 8)
+-  Auflösung einer juristischen Person oder Personengesellschaft (§ 8)
 
-- Ausschluss (§ 9)
+-  Ausschluss (§ 9)
 
 § 5 Kündigung
 -------------
@@ -53,7 +51,7 @@ Die Mitgliedschaft endet durch
 
 (2) Ein Mitglied kann sein Geschäftsguthaben, ohne aus der Genossenschaft auszuscheiden, teilweise übertragen und damit die Anzahl seiner Geschäftsanteile verringern. Absatz 1 gilt entsprechend.
 
-(3) Die Übertragung des Geschäftsguthabens bedarf außer in den Fällen des § 76 Abs. 2 Genossenschaftsgesetz der Zustimmung des Vorstands.
+(3) Die Übertragung des Geschäftsguthabens bedarf außer in den Fällen des § 76 Abs. 2 Genossenschaftsgesetz der Zustimmung des Vorstands.
 
 § 7 Tod eines Mitglieds
 -----------------------
@@ -76,7 +74,7 @@ b) es durch Nichterfüllung seiner Verpflichtungen gegenüber der Genossenschaft
 
 c) es zahlungsunfähig geworden oder überschuldet ist oder wenn über sein Vermögen ein Antrag auf Eröffnung des Insolvenzverfahrens gestellt wurde;
 
-d) es seinen Geschäftsbetrieb, Sitz oder Wohnsitz aus dem Geschäftsgebiet der Genossenschaft verlegt, oder wenn sein dauernder Aufenthaltsort unbekannt ist;
+d) sein dauernder Aufenthaltsort unbekannt ist;
 
 e) die Voraussetzungen für die Aufnahme in die Genossenschaft nicht vorhanden waren oder nicht mehr vorhanden sind;
 
@@ -101,7 +99,7 @@ f) sich sein Verhalten mit den Belangen der Genossenschaft nicht vereinbaren lä
 
 (2) Dem ausgeschiedenen Mitglied ist das Auseinandersetzungsguthaben binnen 6 Monaten nach dem Ausscheiden auszuzahlen. Die Genossenschaft ist berechtigt, bei der Auseinandersetzung die ihr gegen das ausgeschiedene Mitglied zustehenden fälligen Forderungen gegen das auszuzahlende Guthaben aufzurechnen. Auf die Rücklagen und das sonstige Vermögen der Genossenschaft hat das Mitglied keinen Anspruch.
 
-(3) Der Genossenschaft haftet das Auseinandersetzungsguthaben des Mitglieds als Pfand für einen etwaigen Ausfall insbesondere im Insolvenzverfahren des Mitglieds\ **.**
+(3) Der Genossenschaft haftet das Auseinandersetzungsguthaben des Mitglieds als Pfand für einen etwaigen Ausfall insbesondere im Insolvenzverfahren des Mitglieds.
 
 (4) Die Absätze 1 bis 3 gelten entsprechend für die Auseinandersetzung bei der Kündigung einzelner Geschäftsanteile.
 
@@ -116,7 +114,7 @@ b) an der Generalversammlung, an ihren Beratungen, Abstimmungen und Wahlen teilz
 
 c) Anträge für die Tagesordnung der Generalversammlung gemäß § 28 Abs. 4 einzureichen;
 
-d) Anträge auf Berufung einer außerordentlichen Generalversammlung gemäß § 28 Abs. 2 einzureichen;
+d) Anträge auf Berufung einer außerordentlichen Generalversammlung gemäß § 28 Abs. 2 einzureichen;
 
 e) an den satzungsgemäß beschlossenen Ausschüttungen teilzunehmen;
 
